@@ -79,7 +79,7 @@ Let's connect to collaborate on databases, predictive query modeling, or backend
 
 - 📧 **Email**: [ananda.sowjanya@example.com](mailto:ananda.sowjanya@example.com)
 - 💼 **LinkedIn**: [linkedin.com/in/ananda-sowjanya](https://linkedin.com/in/ananda-sowjanya)
-- 🌐 **Interactive Portfolio**: [Check out my live portfolio webpage!](https://github.com/anandasowjanya05/MY-PORTFOLIO)
+- 🌐 **Interactive Portfolio**: [Check out my live portfolio webpage!](https://anandasowjanya-manchinasetty.vercel.app/)
 
 ---
 
